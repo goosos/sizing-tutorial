@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,135 · ETH $2,579 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $82,886 · ETH $2,569 — for context on when this was written.
 
 **Target keyword:** position sizing kelly criterion
 **Meta description:** Same strategy, different bet size, different outcome. Learn fixed fractional, Kelly (and why half-Kelly), and volatility targeting — with runnable code and honest numbers on our MA strategy.
